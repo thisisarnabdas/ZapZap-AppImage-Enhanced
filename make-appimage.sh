@@ -13,6 +13,8 @@ export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
 export DEPLOY_PIPEWIRE=1
 export DEPLOY_PYTHON=1
+export DEPLOY_QT=1
+export QT_DIR=qt6
 export DEPLOY_QT_WEB_ENGINE=1
 
 # Deploy dependencies
